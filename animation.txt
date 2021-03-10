@@ -1,0 +1,12 @@
+ AniJS
+Animista
+Animate.css
+Anime.js
+Bounce.js
+CSShake
+GreenSock (GSAP)
+Hover CSS
+Magic Animations
+Mo.js
+Snap.svg
+Wicked CSS
